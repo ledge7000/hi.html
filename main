@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>irc.land</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet"> 
+    <script src="https://kit.fontawesome.com/1b4d9faeaa.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wallpaper">
+    <div class="fade-in-image">
+        <div class="content">
+        <div class="sidetext">
+            <div class="center">
+                <img src="logo.png" class="pfp" alt="Twitter PFP"/>
+                <h1>irc.land 2.0</h1>
+                <h3>
+                    Almost 30% less autism!<br/>
+                    IRC Network coming soon<br/>
+                </h3>
+                <a href="https://discord.gg/BDe4aEN7JN" target="_blank" rel="noopener noreferrer"><em class="fab fa-discord fa-2x"></em></a>
+                <a href="https://matrix.to/#/#lounge:irc.land" target="_blank" rel="noopener noreferrer"><img src="index.png" alt="Matrix" height="20px"></img></a>
+                <a href="https://twitter.com/irclandofficial" target="_blank" rel="noopener noreferrer"><em class="fab fa-twitter fa-2x"></em></a>
+            </div>
+        </div>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
